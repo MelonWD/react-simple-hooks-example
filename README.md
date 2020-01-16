@@ -8,8 +8,8 @@ Following this example, you can see how to handle API requests for data which is
 
 Code for this example can be found here:
 
-* [Simple hooks code sandbox](https://codesandbox.io/s/github/melonwd/react-simple-hooks-example/tree/master/)
-* [Git repo](https://github.com/MelonWD/react-simple-hooks-example)
+* [Simple hooks code sandbox](https://codesandbox.io/s/github/jcjmcclean/react-simple-hooks-example/tree/master/)
+* [Git repo](https://github.com/jcjmcclean/react-simple-hooks-example)
 
 ## Files
 
